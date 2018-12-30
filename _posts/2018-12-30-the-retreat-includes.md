@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-12-30T21:50:24.851Z'
-datePublished: '2018-12-30T21:50:25.729Z'
+dateModified: '2018-12-30T21:51:39.871Z'
+datePublished: '2018-12-30T21:51:40.607Z'
 title: 'The Retreat includes:'
 author: []
 publisher: {}
@@ -14,7 +14,6 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4474035e-afbe-48de-8c02-873ff9291cfc.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc919c4-0f1e-4eb1-b085-cad596cf4033.jpg)
 
 # The Retreat includes:
 
@@ -27,3 +26,4 @@ _type: Blurb
 ## 6 Nights accommodation in a Beautiful location
 
 ## Arrival and travelling must be carried by yourself
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc919c4-0f1e-4eb1-b085-cad596cf4033.jpg)
