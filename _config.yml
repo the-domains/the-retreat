@@ -54,8 +54,7 @@ purpose:
     label: Contact me
 content_rating:
   adult: false
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ba59f70-2fea-45d5-81e6-d4c412966473.png
+logo: null
 title: Unleash your Beast - THE RETREAT
 description: Mentoring & Coaching with Michael Stief
 github: true
