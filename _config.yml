@@ -1,0 +1,64 @@
+layout_spectrum: 0.3976278300868292
+typography_spectrum: 0.5243153777571008
+color:
+  brandStrength: 0.4911117563601399
+  lightness: 0.3459204692445179
+  saturation: 0.3770572929078768
+  rhythmicContrast: 0.6900621353478936
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+name: The Retreat
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: whats that
+    id: 397eccad-c8d5-49a1-b6ed-ca7c27399374
+    type: content
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fda0c42-3a83-445f-b2de-03b897f5cdd3.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fda0c42-3a83-445f-b2de-03b897f5cdd3.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+purpose:
+  - type: contact
+    url: 'mailto:info@michaelstief.de'
+    label: Contact me
+content_rating:
+  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ba59f70-2fea-45d5-81e6-d4c412966473.png
+title: UNLEASH YOUR BEAST
+description: Mentoring & Coaching with Michael Stief
+github: true
+author:
+  name: Michael Stief
+  email: info@maternity-photography-workshops.com
