@@ -1,19 +1,10 @@
 ---
 inFeed: true
 description: >-
-  A retreat is a safe haven, a protected zone. A place where you can let go of
-  everyday life. The aim of the retreat is to discard old behavioural and
-  thought patterns, recharge the batteries, be inspired, gain new input & feel a
-  fresh breeze. Many photographers feel as if they have arrived at a point in
-  their career where they can no longer progress on their own. They feel like
-  they're in a dead end or an endless loop from which they can't get out on
-  their own. The motivation, inspiration and joy of working as a photographer
-  has been lost. The meaning, the goals, the approach are no longer clearly
-  defined. Views about fears, behavioural patterns, personality and knowledge
-  must be processed and re-programmed and learnt in order to be successful and
-  earn more money.
-dateModified: '2018-12-30T21:02:25.779Z'
-datePublished: '2018-12-30T21:02:26.688Z'
+  This retreat is your safe haven, your protected zone. A place where you can
+  let go of everyday life. 
+dateModified: '2018-12-30T21:06:57.660Z'
+datePublished: '2018-12-30T21:06:58.904Z'
 title: >-
   Through this retreat you will manage to leave an impact, to get a big
   advantage over your competitors and to stand out from them.
@@ -31,10 +22,10 @@ _type: Article
 ---
 # Through this retreat you will manage to leave an impact, to get a big advantage over your competitors and to stand out from them.
 
-A retreat is a safe haven, a protected zone. A place where you can let go of everyday life. The aim of the retreat is to discard old behavioural and thought patterns, recharge the batteries, be inspired, gain new input & feel a fresh breeze. Many photographers feel as if they have arrived at a point in their career where they can no longer progress on their own. They feel like they're in a dead end or an endless loop from which they can't get out on their own. The motivation, inspiration and joy of working as a photographer has been lost. The meaning, the goals, the approach are no longer clearly defined. Views about fears, behavioural patterns, personality and knowledge must be processed and re-programmed and learnt in order to be successful and earn more money.
+This retreat is your safe haven, your protected zone. A place where you can let go of everyday life. 
+
+The aim of the retreat is to discard old behavioural and thought patterns, recharge the batteries, be inspired, gain new input & feel a fresh breeze. Many photographers feel as if they have arrived at a point in their career where they can no longer progress on their own. They feel like they're in a dead end or an endless loop from which they can't get out on their own. The motivation, inspiration and joy of working as a photographer has been lost. The meaning, the goals, the approach are no longer clearly defined. Views about fears, behavioural patterns, personality and knowledge must be processed and re-programmed and learnt in order to be successful and earn more money.
 
 ### This retreat will help you to rethink and implement your way of thinking and approach. You will learn to get out of your comfort zone, develop yourself further, become creative, tackle things differently and regain fun and passion in your work as a photographer.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79ea9db7-56eb-4e58-b5ce-108f23bca317.jpg)
 
 Through this retreat you will learn to make an impression on your industry and your clients, to stay ahead of your competitors and to stand out from them. The goal is to develop a great work-life balance, to do exactly what you enjoy and earn a lot of money.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb32b44c-c485-4f57-9f77-9c6ac0ff572c.jpg)
