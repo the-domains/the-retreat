@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   This retreat is your safe haven, your protected zone. A place where you can
   let go of everyday life.
-dateModified: '2018-12-30T21:09:39.490Z'
-datePublished: '2018-12-30T21:09:40.236Z'
+dateModified: '2018-12-30T21:09:40.381Z'
+datePublished: '2018-12-30T21:09:41.467Z'
 title: >-
   Through this retreat you will manage to leave an impact, to get a big
   advantage over your competitors and to stand out from them.
