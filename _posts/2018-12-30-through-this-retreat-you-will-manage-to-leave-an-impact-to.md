@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   This retreat is your safe haven, your protected zone. A place where you can
   let go of everyday life.
-dateModified: '2018-12-30T21:12:27.667Z'
-datePublished: '2018-12-30T21:12:28.835Z'
+dateModified: '2018-12-30T21:32:12.328Z'
+datePublished: '2018-12-30T21:32:13.346Z'
 title: >-
   Through this retreat you will manage to leave an impact, to get a big
   advantage over your competitors and to stand out from them.
@@ -20,6 +20,8 @@ url: through-this-retreat-you-will-manage-to-leave-an-impact-to/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e92f72a4-0253-4691-9408-3f8480a935af.jpg)
+
 # Through this retreat you will manage to leave an impact, to get a big advantage over your competitors and to stand out from them.
 
 This retreat is your safe haven, your protected zone. A place where you can let go of everyday life.
