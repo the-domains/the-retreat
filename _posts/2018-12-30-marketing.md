@@ -5,8 +5,8 @@ description: >-
   products or services. It is important to know that customers don't just want
   to buy photos, they also want the feeling of a personal basis. As a
   photographer, you market yourself as a brand.
-dateModified: '2019-01-01T19:18:07.083Z'
-datePublished: '2019-01-01T19:18:08.320Z'
+dateModified: '2019-01-01T19:19:33.658Z'
+datePublished: '2019-01-01T19:19:34.837Z'
 title: 'Marketing:'
 author: []
 publisher: {}
