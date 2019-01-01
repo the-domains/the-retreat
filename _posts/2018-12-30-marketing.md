@@ -5,8 +5,8 @@ description: >-
   products or services. It is important to know that customers don't just want
   to buy photos, they also want the feeling of a personal basis. As a
   photographer, you market yourself as a brand.
-dateModified: '2019-01-01T18:39:23.643Z'
-datePublished: '2019-01-01T18:39:24.459Z'
+dateModified: '2019-01-01T19:18:07.083Z'
+datePublished: '2019-01-01T19:18:08.320Z'
 title: 'Marketing:'
 author: []
 publisher: {}
@@ -24,6 +24,8 @@ Generate profits by identifying, analyzing, predicting and satisfying customer n
 
 > Marketing is the process of getting consumers interested in your company's products or services. It is important to know that customers don't just want to buy photos, they also want the feeling of a personal basis. As a photographer, you market yourself as a brand.
 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/585be8e5-bd3b-4f3b-a36e-d67d9453eab4.jpg)
+
 * _**Website & Portfolio Review**_
 * _**Search engine optimization - SEO**_
 * _**Branding**_
@@ -31,4 +33,3 @@ Generate profits by identifying, analyzing, predicting and satisfying customer n
 * _**How to get customers & keep them**_
 * _**Identify your market**_
 * _**Analyse your Competition**_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/585be8e5-bd3b-4f3b-a36e-d67d9453eab4.jpg)
