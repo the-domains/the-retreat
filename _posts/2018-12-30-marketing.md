@@ -5,8 +5,8 @@ description: >-
   products or services. It is important to know that customers don't just want
   to buy photos, they also want the feeling of a personal basis. As a
   photographer, you market yourself as a brand.
-dateModified: '2018-12-30T21:38:03.136Z'
-datePublished: '2018-12-30T21:38:03.871Z'
+dateModified: '2019-01-01T18:39:23.643Z'
+datePublished: '2019-01-01T18:39:24.459Z'
 title: 'Marketing:'
 author: []
 publisher: {}
@@ -31,4 +31,4 @@ Generate profits by identifying, analyzing, predicting and satisfying customer n
 * _**How to get customers & keep them**_
 * _**Identify your market**_
 * _**Analyse your Competition**_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d6c6967-7652-40c7-9855-28102fffde53.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/585be8e5-bd3b-4f3b-a36e-d67d9453eab4.jpg)
