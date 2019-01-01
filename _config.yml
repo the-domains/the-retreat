@@ -11,7 +11,7 @@ color:
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
-name: Unleash your Beast - Mentoring & Coaching with Michael Stief - THE RETREAT
+name: UNLEASH YOUR BEAST - The Retreat
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -23,80 +23,7 @@ navigation:
   - name: whats that
     id: 397eccad-c8d5-49a1-b6ed-ca7c27399374
     type: content
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fda0c42-3a83-445f-b2de-03b897f5cdd3.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fda0c42-3a83-445f-b2de-03b897f5cdd3.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44f39ee2-88e4-4f7d-bbe3-1b5d51612d9c.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/44f39ee2-88e4-4f7d-bbe3-1b5d51612d9c.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d09ab3f8-cf6b-44e9-8296-d17dbb656d45.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d09ab3f8-cf6b-44e9-8296-d17dbb656d45.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 purpose:
   - type: contact
     url: 'mailto:info@michaelstief.de'
