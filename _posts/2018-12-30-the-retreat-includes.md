@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2019-01-01T18:33:40.207Z'
-datePublished: '2019-01-01T18:33:41.089Z'
+dateModified: '2019-01-01T19:19:33.658Z'
+datePublished: '2019-01-01T19:19:34.846Z'
 title: 'The Retreats include:'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-12-30-the-retreat-includes.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-12-30T13:24:09.825Z'
-hasPage: true
 url: the-retreats-include/index.html
 _type: Article
 
