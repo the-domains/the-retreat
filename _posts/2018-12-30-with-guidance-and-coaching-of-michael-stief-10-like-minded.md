@@ -5,8 +5,8 @@ description: >-
   author. His experience and approach as a photographer, businessman, mentor,
   coach and public speaker is conveyed in a simple and impressive way in this
   7-day retreat.
-dateModified: '2018-12-30T21:43:38.450Z'
-datePublished: '2018-12-30T21:43:38.640Z'
+dateModified: '2019-01-01T19:19:33.658Z'
+datePublished: '2019-01-01T19:19:34.844Z'
 title: MINDSET - WORKFLOW - MARKETING - PRACTICAL WORKSHOP
 author: []
 publisher: {}
