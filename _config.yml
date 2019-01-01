@@ -23,7 +23,32 @@ navigation:
   - name: whats that
     id: 397eccad-c8d5-49a1-b6ed-ca7c27399374
     type: content
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a93483d-672e-4c7a-abad-d38495b4ddbb.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a93483d-672e-4c7a-abad-d38495b4ddbb.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 purpose:
   - type: contact
     url: 'mailto:info@michaelstief.de'
